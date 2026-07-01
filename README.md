@@ -22,5 +22,10 @@ This repository is a structured learning journey of my Machine Learning concepts
 - Basic ML Classification Project – Placement Prediction using CGPA & IQ (Kaggle dataset). Built for practice with end-to-end pipeline including preprocessing, training, and evaluation.
 
 
+###  Data Gathering Methods:
 
+- Topics Covered:
+• Reading CSV datasets
+• Data Loading using Pandas
+• Dataset Understanding
   

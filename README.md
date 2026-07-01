@@ -17,8 +17,10 @@ This repository is a structured learning journey of my Machine Learning concepts
 - Implemented a complete Logistic Regression model for classification, including data preprocessing, training, prediction, and evaluation.
 
 
-### END TO END TOY PROJECT OF CLASSIFICATION
+###  BASIC PRACTICE END TO END TOY PROJECT OF CLASSIFICATION
+
+- Basic ML Classification Project – Placement Prediction using CGPA & IQ (Kaggle dataset). Built for practice with end-to-end pipeline including preprocessing, training, and evaluation.
 
 
 
-- 
+  

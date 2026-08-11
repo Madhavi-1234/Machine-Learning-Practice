@@ -1,31 +1,44 @@
-# Machine-Learning-Practice 🚀
 
-This repository is a structured learning journey of my Machine Learning concepts with practical implementations.
+This repository is a structured learning journey of my Machine Learning concepts with practical implementations and projects.
 
-
-📌 Current Progress
+## 📌 Current Progress
 
 ### 📊 Regression – Linear Regression
-- Simple implenated Linear Regression from scratch / using library (Numpy, matplotlib, seaborn, panadas
-- Covered data preprocessing, model training, prediction, and evaluation
-- Understanding relationship between input features and continuous output
 
+* Implemented Linear Regression from scratch and using libraries.
+* Covered data preprocessing, model training, prediction, and evaluation.
+* Practiced using NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
+* Understanding the relationship between input features and continuous output.
 
 ### 🧠 Classification – Logistic Regression
 
-### Classification – Logistic Regression
-- Implemented a complete Logistic Regression model for classification, including data preprocessing, training, prediction, and evaluation.
+* Implemented Logistic Regression for classification.
+* Covered data preprocessing, model training, prediction, and evaluation.
+* Learned the basics of binary classification and model evaluation.
 
+### 🎓 Basic End-to-End Classification Project
 
-###  BASIC PRACTICE END TO END TOY PROJECT OF CLASSIFICATION
+**Placement Prediction using CGPA & IQ**
 
-- Basic ML Classification Project – Placement Prediction using CGPA & IQ (Kaggle dataset). Built for practice with end-to-end pipeline including preprocessing, training, and evaluation.
+* Built a basic classification project using a Kaggle dataset.
+* Used CGPA and IQ to predict placement outcomes.
+* Practiced the complete ML workflow from data loading to model evaluation.
 
+### 📂 Data Gathering & Data Understanding
 
-###  Data Gathering Methods:
+* Reading CSV datasets
+* Loading data using Pandas
+* Understanding dataset structure
+* Checking rows, columns, data types, and basic statistics
+* Identifying features and target variables
 
-- Topics Covered:
-• Reading CSV datasets
-• Data Loading using Pandas
-• Dataset Understanding
-  
+### 👗 Fashion Style Classifier
+
+* Built a Fashion Image Style Classification project.
+* Worked with fashion image datasets and created custom style categories.
+* Performed data preprocessing, class mapping, balancing, and train/validation/test splitting.
+* Implemented a **CLIP-based hybrid style classifier** using PyTorch and Hugging Face Transformers.
+* Used zero-shot classification along with a trained classification head.
+* Achieved approximately **78.5% test accuracy**.
+* Practiced real-world image classification and model evaluation.
+

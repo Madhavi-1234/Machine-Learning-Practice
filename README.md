@@ -42,6 +42,8 @@ This repository is a structured learning journey of my Machine Learning concepts
 * Used zero-shot classification along with a trained classification head.
 * Achieved approximately **78.5% test accuracy**.
 * Practiced real-world image classification and model evaluation.
+
+  
 ### 📰 Fake News Detector – Exploratory Data Analysis
 
 * Started a Fake News Detection project using a news dataset.

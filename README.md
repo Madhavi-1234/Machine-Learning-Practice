@@ -18,6 +18,7 @@ This repository is a structured learning journey of my Machine Learning concepts
 * Learned the basics of binary classification and model evaluation.
 
 ### 🎓 Basic End-to-End Classification Project
+### 🎓 Basic End-to-End Classification Project
 
 **Placement Prediction using CGPA & IQ**
 

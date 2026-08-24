@@ -42,4 +42,12 @@ This repository is a structured learning journey of my Machine Learning concepts
 * Used zero-shot classification along with a trained classification head.
 * Achieved approximately **78.5% test accuracy**.
 * Practiced real-world image classification and model evaluation.
+### 📰 Fake News Detector – Exploratory Data Analysis
 
+* Started a Fake News Detection project using a news dataset.
+* Performed data loading and initial dataset understanding using Pandas.
+* Analyzed dataset structure, columns, data types, and missing values.
+* Explored the distribution of real and fake news labels.
+* Analyzed news text length to understand differences between the classes.
+* Performed basic text-based exploratory data analysis using Pandas and visualization libraries.
+* Preparing the dataset for further text preprocessing and machine learning classification.

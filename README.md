@@ -2,6 +2,14 @@
 
 This repository is a structured learning journey of my Machine Learning concepts with practical implementations and projects.
 
+## 🚧 Currently Working On
+
+🔄 In Progress.
+
+I am currently working on an Exploratory Data Analysis (EDA) project using the **US Accidents Dataset**. This project focuses on hands-on exploratory analysis to understand the dataset, perform data cleaning and preprocessing, and conduct statistical analysis and visualizations. I am exploring accident patterns based on time, location, weather conditions, severity, and other relevant features to uncover meaningful insights. The goal is to derive actionable findings rather than simply produce charts, with a strong emphasis on understanding the data and its underlying patterns.
+
+The complete project, including the Jupyter Notebook, Python code, visualizations, and key findings, will be uploaded soon.
+
 ## 📌 Current Progress
 
 ### 📊 Regression – Linear Regression
@@ -44,7 +52,7 @@ This repository is a structured learning journey of my Machine Learning concepts
 * Achieved approximately **78.5% test accuracy**.
 * Practiced real-world image classification and model evaluation.
 
-  
+   
 ### 📰 Fake News Detector – Exploratory Data Analysis
 
 * Started a Fake News Detection project using a news dataset.

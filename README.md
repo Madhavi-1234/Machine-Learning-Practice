@@ -3,10 +3,6 @@
 A structured collection of Machine Learning concepts, practical implementations, experiments, and real-world projects. This repository documents my journey of learning and applying Machine Learning — from foundational concepts and algorithms to hands-on projects and model development.
 
 
-This repository documents my Machine Learning learning journey through theoretical concepts, hands-on implementations, practical experiments, and end-to-end projects.
-
-My focus is on developing a strong understanding of ML concepts by implementing algorithms, exploring real-world datasets, performing data analysis, and building practical machine learning solutions.
-
 ## 🚧 Currently Working On
 
 ### 🚗 US Accidents Dataset — Exploratory Data Analysis (EDA)

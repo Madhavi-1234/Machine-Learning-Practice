@@ -1,4 +1,7 @@
-# Machine Learning 🚀
+# Machine Learning Guide 🚀
+
+A structured collection of Machine Learning concepts, practical implementations, experiments, and real-world projects. This repository documents my journey of learning and applying Machine Learning — from foundational concepts and algorithms to hands-on projects and model development.
+
 
 This repository documents my Machine Learning learning journey through theoretical concepts, hands-on implementations, practical experiments, and end-to-end projects.
 

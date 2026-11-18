@@ -1,64 +1,99 @@
-# Machine-Learning-Practice 🚀
+# Machine Learning 🚀
 
-This repository is a structured learning journey of my Machine Learning concepts with practical implementations and projects.
+This repository documents my Machine Learning learning journey through theoretical concepts, hands-on implementations, practical experiments, and end-to-end projects.
+
+My focus is on developing a strong understanding of ML concepts by implementing algorithms, exploring real-world datasets, performing data analysis, and building practical machine learning solutions.
 
 ## 🚧 Currently Working On
 
-🔄 In Progress.
+### 🚗 US Accidents Dataset — Exploratory Data Analysis (EDA)
 
-I am currently working on an Exploratory Data Analysis (EDA) project using the **US Accidents Dataset**. This project focuses on hands-on exploratory analysis to understand the dataset, perform data cleaning and preprocessing, and conduct statistical analysis and visualizations. I am exploring accident patterns based on time, location, weather conditions, severity, and other relevant features to uncover meaningful insights. The goal is to derive actionable findings rather than simply produce charts, with a strong emphasis on understanding the data and its underlying patterns.
+Currently working on an EDA project using the **US Accidents Dataset** to understand accident patterns and explore the relationships between different accident-related factors.
 
-The complete project, including the Jupyter Notebook, Python code, visualizations, and key findings, will be uploaded soon.
+**Dataset Exploration & Analysis:**
 
-## 📌 Current Progress
+- Explored the dataset structure, including rows, columns, data types, and column meanings.
+- Analyzed numerical, categorical, datetime, and Boolean features.
+- Performed missing-value analysis to identify incomplete and potentially unreliable columns.
+- Investigated descriptive statistics, value distributions, and frequency patterns.
+- Explored accident patterns based on states, cities, time, weekdays, and weather conditions.
+- Used histograms, boxplots, and IQR-based analysis to investigate distributions and potential outliers.
+- Started exploring relationships between weather-related features and accident severity.
+- Investigated unusual patterns in `Distance(mi)`, `Wind_Speed(mph)`, and `Visibility(mi)`.
 
-### 📊 Regression – Linear Regression
+**Initial Observations:**
 
-* Implemented Linear Regression from scratch and using libraries.
-* Covered data preprocessing, model training, prediction, and evaluation.
-* Practiced using NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
-* Understanding the relationship between input features and continuous output.
+- Identified substantial missing values in selected weather and geographical columns.
+- Observed highly concentrated values in the `Distance(mi)` feature.
+- Investigated potential outliers in wind speed and visibility rather than automatically removing them.
+- Explored preliminary relationships between wind speed, visibility, and accident severity.
 
-### 🧠 Classification – Logistic Regression
+**Current Focus:**
+- Completing univariate, bivariate, and multivariate analysis.
+- Investigating data quality issues and validating unusual observations.
+- Developing meaningful EDA questions and interpreting analytical results.
+- Preparing for feature engineering and subsequent ML implementation.
 
-* Implemented Logistic Regression for classification.
-* Covered data preprocessing, model training, prediction, and evaluation.
-* Learned the basics of binary classification and model evaluation.
+The current analysis uses an initial 5,000-row sample of the dataset. Findings will be further validated as the project progresses.
+
+The complete project, including the Jupyter Notebook, Python implementations, visualizations, detailed analysis, and key findings, will be added after completion.
+
+## 📌 Machine Learning Concepts & Projects
+
+### 📊 Regression — Linear Regression
+
+- Implemented Linear Regression from scratch and using libraries.
+- Covered data preprocessing, model training, prediction, and evaluation.
+- Practiced using NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
+- Explored relationships between input features and continuous output variables.
+
+### 🧠 Classification — Logistic Regression
+
+- Implemented Logistic Regression for classification.
+- Covered data preprocessing, model training, prediction, and evaluation.
+- Learned the fundamentals of binary classification and model evaluation.
 
 ### 🎓 Basic End-to-End Classification Project
-### 🎓 Basic End-to-End Regression Project
 
 **Placement Prediction using CGPA & IQ**
 
-* Built a basic classification project using a Kaggle dataset.
-* Used CGPA and IQ to predict placement outcomes.
-* Practiced the complete ML workflow from data loading to model evaluation.
+- Built a basic classification project using a Kaggle dataset.
+- Used CGPA and IQ as input features to predict placement outcomes.
+- Practiced the complete ML workflow, from data loading and preprocessing to model training and evaluation.
 
-### 📂 Data Gathering & Data Understanding
+## 📂 Data Gathering & Data Understanding
 
-* Reading CSV datasets
-* Loading data using Pandas
-* Understanding dataset structure
-* Checking rows, columns, data types, and basic statistics
-* Identifying features and target variables
+- Reading and loading CSV datasets.
+- Working with Pandas DataFrames.
+- Understanding dataset structure and dimensions.
+- Inspecting rows, columns, and data types.
+- Exploring descriptive statistics.
+- Identifying features and target variables.
 
 ### 👗 Fashion Style Classifier
 
-* Built a Fashion Image Style Classification project.
-* Worked with fashion image datasets and created custom style categories.
-* Performed data preprocessing, class mapping, balancing, and train/validation/test splitting.
-* Implemented a **CLIP-based hybrid style classifier** using PyTorch and Hugging Face Transformers.
-* Used zero-shot classification along with a trained classification head.
-* Achieved approximately **78.5% test accuracy**.
-* Practiced real-world image classification and model evaluation.
+- Built a Fashion Image Style Classification project.
+- Worked with fashion image datasets and created custom style categories.
+- Performed data preprocessing, class mapping, balancing, and train/validation/test splitting.
+- Implemented a **CLIP-based hybrid style classifier** using PyTorch and Hugging Face Transformers.
+- Used zero-shot classification along with a trained classification head.
+- Achieved approximately **78.5% test accuracy**.
+- Practiced real-world image classification and model evaluation.
 
-   
-### 📰 Fake News Detector – Exploratory Data Analysis
+### 📰 Fake News Detector — Exploratory Data Analysis
 
-* Started a Fake News Detection project using a news dataset.
-* Performed data loading and initial dataset understanding using Pandas.
-* Analyzed dataset structure, columns, data types, and missing values.
-* Explored the distribution of real and fake news labels.
-* Analyzed news text length to understand differences between the classes.
-* Performed basic text-based exploratory data analysis using Pandas and visualization libraries.
-* Preparing the dataset for further text preprocessing and machine learning classification.
+- Started a Fake News Detection project using a news dataset.
+- Performed data loading and initial dataset understanding using Pandas.
+- Analyzed dataset structure, columns, data types, and missing values.
+- Explored the distribution of real and fake news labels.
+- Analyzed news text length to understand differences between the classes.
+- Performed basic text-based exploratory data analysis using Pandas and visualization libraries.
+- Prepared the dataset for further text preprocessing and machine learning classification.
+
+---
+
+**Continuous Learning & Development**
+
+This repository is continuously evolving as I strengthen my understanding of Machine Learning, explore new concepts, and implement practical projects.
+
+More implementations, experiments, and project updates will be added as I progress.
